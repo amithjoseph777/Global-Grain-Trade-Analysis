@@ -13,4 +13,4 @@ Tools Used:
 - The U.S. leads in grain exports
 - China imports large quantities of soybeans despite high production
 
-[Read the full article on LinkedIn](https://www.linkedin.com/pulse/global-grain-maps-where-agriculture-meets-analytics-amith-joseph)
+[Read the full article on my LinkedIn](https://www.linkedin.com/pulse/global-grain-maps-where-agriculture-meets-analytics-amith-joseph)
